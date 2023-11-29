@@ -1,8 +1,8 @@
 # Marketing-Analysis-with-Power-BI
-Welcome to the Marketing Analysis repository, dedicated to enhancing your understanding of marketing effectiveness and unlocking opportunities for strategic improvements. This Power BI project is crafted with the business objective of gaining actionable insights into marketing campaigns to drive increased sales and revenue.
-# To view the interactive dashboard on Power BI, click link https://app.powerbi.com/view?r=eyJrIjoiNzViNjhkODYtYmMwYS00ZDA4LTgzNjgtZjk1MjI1ZDQ4ZjczIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9 
-Certainly! Here's a description for your GitHub repository focusing on Marketing Analysis using Power BI:
 
+Welcome to the Marketing Analysis repository, dedicated to enhancing your understanding of marketing effectiveness and unlocking opportunities for strategic improvements. This Power BI project is crafted with the business objective of gaining actionable insights into marketing campaigns to drive increased sales and revenue.
+
+# To view the interactive dashboard on Power BI, click link https://app.powerbi.com/view?r=eyJrIjoiNzViNjhkODYtYmMwYS00ZDA4LTgzNjgtZjk1MjI1ZDQ4ZjczIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9
 
 **Project Overview:**
 - **Objective:** Gain insights into the effectiveness of marketing campaigns and identify opportunities for strategic enhancements to boost sales and revenue.
